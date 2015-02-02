@@ -1,0 +1,47 @@
+{
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"caret_style": "solid",
+	"color_scheme": "Packages/User/Seti (SL).tmTheme",
+	"default_line_ending": "windows",
+	"folder_exclude_patterns":
+	[
+		".git",
+		".awestruct",
+		".sass-cache"
+	],
+	"font_size": 16.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Writing Style",
+		"Theme - Soda"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"pandoc-path": "/usr/local/bin/pandoc",
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"tab_size": 4,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"wide_caret": false
+}
